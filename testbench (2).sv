@@ -2,7 +2,7 @@
 
 //------------------------------------------------------------------------------
 // File        : tb_atm_controller.sv
-// Author      : Kartik Malipatil / 1BM23EC117
+// Author      :  HarshavardhanK/ 1BM23EC098
 // Created     : 2026-02-03
 // Module      : tb_atm_controller
 // Project     : SystemVerilog and Verification (23EC6PE2SV)
